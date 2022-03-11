@@ -51,3 +51,9 @@ I find yarn is slightly better for commands as you don't need to use 'run' to ex
 - Outputs will be in the terminal/console along with any console.logs used as part of the solution workflow.
 
 Note that the 'test' script in package.json has been set up to watch for changes in code and re-run the test script. If you want to run single test runs instead, you can run `yarn jest ./exercise-folder` or `npm test ./exercise-folder`
+
+## Issues
+
+If you have any suggestion or issues with this repo, please visit https://github.com/StuLast/javascript-code-challenges/issues to log them and I will get round to them as time permits.
+
+In the meantime - I whole-heartedly recommend participating in [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) on Udemy to get the full benefit of this repo.
